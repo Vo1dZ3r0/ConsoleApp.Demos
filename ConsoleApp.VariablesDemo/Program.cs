@@ -8,7 +8,7 @@
     logical - bool
 */
 
-string name = "Bralin Larence";
+string name = "Craig Donovan";
 Console.WriteLine(name);
 Console.WriteLine("I am " + name); //  string concatenation 
 Console.WriteLine($"They call me {name}"); // string interpolation
