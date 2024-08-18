@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.OuputDemo", "ConsoleApp.OuputDemo\ConsoleApp.OuputDemo.csproj", "{19A393E9-2797-4AC8-A1DE-D5B8A6DB013E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.OutputDemo", "ConsoleApp.OuputDemo\ConsoleApp.OutputDemo.csproj", "{19A393E9-2797-4AC8-A1DE-D5B8A6DB013E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.VariablesDemo", "ConsoleApp.VariablesDemo\ConsoleApp.VariablesDemo.csproj", "{0575CF09-6501-4FF7-AD7A-1B35838ACD26}"
 EndProject
