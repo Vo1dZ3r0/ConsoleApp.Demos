@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.OutputDemo", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{5384DCA1-CB1A-4519-98B6-78129CBB64E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ConditionsAndDescisions", "ConsoleApp.ConditionsAndDescisions\ConsoleApp.ConditionsAndDescisions.csproj", "{BAD9BA1A-08E4-42E5-A062-AC39D0F83F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{C73979BF-4374-4087-9F21-33B26DCD0770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{5384DCA1-CB1A-4519-98B6-78129CBB64E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5384DCA1-CB1A-4519-98B6-78129CBB64E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5384DCA1-CB1A-4519-98B6-78129CBB64E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD9BA1A-08E4-42E5-A062-AC39D0F83F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD9BA1A-08E4-42E5-A062-AC39D0F83F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD9BA1A-08E4-42E5-A062-AC39D0F83F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD9BA1A-08E4-42E5-A062-AC39D0F83F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73979BF-4374-4087-9F21-33B26DCD0770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73979BF-4374-4087-9F21-33B26DCD0770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73979BF-4374-4087-9F21-33B26DCD0770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73979BF-4374-4087-9F21-33B26DCD0770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
